@@ -1,4 +1,4 @@
-Amigo Secreto
+#Amigo Secreto
 Este projeto é um simples sorteador de amigo secreto desenvolvido com HTML, CSS e JavaScript.
 
 📜 Funcionalidades do JavaScript
